@@ -1,0 +1,74 @@
+id,city,venue,Team1,Team2,Toss_winner,Match_winner,Margin,result,method,Year
+1,Hambantota,Mahinda Rajpaksha,Sri Lanka,Zimbabwe,Zimbabwe,Sri Lanka,82,Runs,NA,2012
+2,Colombo,R.premdasa Stadium,Australia,Ireland,Ireland,Australia,7,Wickets,NA,2012
+3,Colombo,R.premdasa Stadium,India ,Afghanistan,Afghanistan,India ,23,Runs,NA,2012
+4,Hambantota,R.premdasa Stadium,South Africa,Zimbabwe,South Africa,South Africa,10,Wickets,NA,2012
+5,Pallekele,Pallekele International Stadium,Bangladesh,New Zealand,Bangladesh,New Zealand,59,Runs,NA,2012
+6,Colombo,R.premdasa Stadium,England ,Afghanistan,Afghanistan,England,116,Runs,NA,2012
+7,Hambantota,Mahinda Rajpaksha,Sri Lanka,South Africa ,Sri Lanka,South Africa,32,Runs,NA,2012
+8,Colombo,R.premdasa Stadium,Australia,West Indies,West Indies,Australia,17,Runs,NA,2012
+9,Pallekele,Pallekele International Stadium,New Zealand,Pakistan,Pakistan,Pakistan,13,Runs,NA,2012
+10,Colombo,R.premdasa Stadium,England ,India,England,India ,90,Runs,NA,2012
+11,Colombo,R.premdasa Stadium,West Indies,Ireland,None,None,0,None,NA,2012
+12,Pallekele,Pallekele International Stadium,Bangladesh,Pakistan,Bangladesh,Pakistan,8,Wickets,NA,2012
+13,Pallekele,Pallekele International Stadium,Sri Lanka,New Zealand,New Zealand,Sri Lanka,0, -,NA,2012
+14,Pallekele,Pallekele International Stadium,England ,West Indies,West Indies,West Indies,15,Runs,NA,2012
+15,Colombo,R.premdasa Stadium,Pakistan,South Africa ,South Africa,Pakistan,2,Wickets,NA,2012
+16,Colombo,R.premdasa Stadium,Australia,India,India,Australia,9,Wickets,NA,2012
+17,Pallekele,Pallekele International Stadium,England ,New Zealand,New Zealand,England,6,Wickets,NA,2012
+18,Pallekele,Pallekele International Stadium,Sri Lanka,West Indies,West Indies,Sri Lanka,9,Wickets,NA,2012
+19,Colombo,R.premdasa Stadium,Australia,South Africa ,Australia,Australia,8,Wickets,NA,2012
+20,Colombo,R.premdasa Stadium,Pakistan,India,Pakistan,India ,8,Wickets,NA,2012
+21,Pallekele,Pallekele International Stadium,West Indies,New Zealand,New Zealand,West Indies,0,-,NA,2012
+22,Pallekele,Pallekele International Stadium,Sri Lanka,England ,England,Sri Lanka,19,Runs,NA,2012
+23,Colombo,R.premdasa Stadium,Australia,Pakistan,Australia,Australia,32,Runs,NA,2012
+24,Colombo,R.premdasa Stadium,India ,South Africa ,South Africa,India ,1,Runs,NA,2012
+25,Colombo,R.premdasa Stadium,Sri Lanka,Pakistan,Sri Lanka,Sri Lanka,16,Runs,NA,2012
+26,Colombo,R.premdasa Stadium,Australia,West Indies,West Indies,West Indies,74,Runs,NA,2012
+27,Colombo,R.premdasa Stadium,Sri Lanka,West Indies,West Indies,West Indies,36,Runs,NA,2012
+28,Dhaka,Shere Bangla International Stadium,India ,Pakistan,India,India ,7,Wickets,NA,2014
+29,Chattogram,Zahur Ahmed Chowdhury,Sri Lanka,South Africa ,Sri Lanka,Sri Lanka,5,Runs,NA,2014
+30,Chattogram,Zahur Ahmed Chowdhury,England ,New Zealand,New Zealand,New Zealand,9,Runs,NA,2014
+31,Dhaka,Shere Bangla International Stadium,Australia,Pakistan,Austtralia,Pakistan,16,Runs,NA,2014
+32,Dhaka,Shere Bangla International Stadium,India ,West Indies,India,India ,7,Wickets,NA,2014
+33,Chattogram,Zahur Ahmed Chowdhury,New Zealand,South Africa ,New Zealand,South Africa,2,Runs,NA,2014
+34,Chattogram,Zahur Ahmed Chowdhury,Netherlands,Sri Lanka,Sri Lanka,Sri Lanka,9,Wickets,NA,2014
+35,Dhaka,Shere Bangla International Stadium,Bangladesh,West Indies,Bangladesh,West Indies,73,Runs,NA,2014
+36,Chattogram,Zahur Ahmed Chowdhury,Netherlands,South Africa ,Netherlands,South Africa,6,Runs,NA,2014
+37,Chattogram,Zahur Ahmed Chowdhury,England ,Sri Lanka,England,England,6,Wickets,NA,2014
+38,Dhaka,Shere Bangla International Stadium,West Indies,Australia,Australia,West Indies,6,Wickets,NA,2014
+39,Dhaka,Shere Bangla International Stadium,Bangladesh,India,India,India ,8,Wickets,NA,2014
+40,Chattogram,Zahur Ahmed Chowdhury,Netherlands,New Zealand,New Zealand,New Zealand,6,Wickets,NA,2014
+41,Chattogram,Zahur Ahmed Chowdhury,England ,South Africa ,England,South Africa,3,Runs,NA,2014
+42,Dhaka,Shere Bangla International Stadium,Bangladesh,Pakistan,Pakistan,Pakistan,50,Runs,NA,2014
+43,Dhaka,Shere Bangla International Stadium,India ,Australia,Australia,India ,73,Runs,NA,2014
+44,Chattogram,Zahur Ahmed Chowdhury,England ,Netherlands,England,Netherlands,45,Runs,NA,2014
+45,Chattogram,Zahur Ahmed Chowdhury,New Zealand,Sri Lanka,New Zealand,Sri Lanka,59,Runs,NA,2014
+46,Dhaka,Shere Bangla International Stadium,Bangladesh,Australia,Bangladesh,Australia,7,Wickets,NA,2014
+47,Dhaka,Shere Bangla International Stadium,Pakistan,West Indies,West Indies,West Indies,84,Runs,NA,2014
+48,Dhaka,Shere Bangla International Stadium,Sri Lanka,West Indies,Sri Lanka,Sri Lanka,27,Runs,D/L,2014
+49,Dhaka,Shere Bangla International Stadium,India ,South Africa ,South Africa,India ,6,Wickets,NA,2014
+50,Dhaka,Shere Bangla International Stadium,India ,Sri Lanka,Sri Lanka,Sri Lanka,6,Wickets,NA,2014
+51,Nagpur,Vidarbha Cricket Association,India ,New Zealand,New Zealand,New Zealand,47,Runs,NA,2016
+52,Kolkata,Eden Gardens,Pakistan,Bangladesh,Pakistan,Pakistan,55,Runs,NA,2016
+53,Mumbai,Wankhede Stadium,England ,West Indies,West Indies,West Indies,6,Wickets,NA,2016
+54,Kolkata,Eden Gardens,Sri Lanka,Afghanistan,Afghanistan,Sri Lanka,6,Wickets,NA,2016
+55,Dharamshala,Himachal Pradesh Cricket Association,Australia,New Zealand,New Zealand,New Zealand,8,Runs,NA,2016
+56,Mumbai,Wankhede Stadium,England ,South Africa ,England,England,2,Wickets,NA,2016
+57,Kolkata,Eden Gardens,India ,Pakistan,India,India ,6,Wickets,NA,2016
+58,Mumbai,Wankhede Stadium,South Africa,Afghanistan,South Africa,South Africa,37,Runs,NA,2016
+59,Bengaluru,M.Chinnaswamy Stadium,Sri Lanka,West Indies,West Indies,West Indies,7,Wickets,NA,2016
+60,Bengaluru,M.Chinnaswamy Stadium,Australia,Bangladesh,Australia,Australia,3,Wickets,NA,2016
+61,Mohali,IS Bindra Stadium,New Zealand,Pakistan,New Zealand,New Zealand,22,Runs,NA,2016
+62,Delhi,Arun Jaitley Stadium,England ,Afghanistan,England,England,15,Runs,NA,2016
+63,Bengaluru,M.Chinnaswamy Stadium,India ,Bangladesh,Bangladesh,India ,1,Runs,NA,2016
+64,Mohali,IS Bindra Stadium,Australia,Pakistan,Australia,Australia,21,Runs,NA,2016
+65,Nagpur,Vidarbha Cricket Association,South Africa,West Indies,West Indies,West Indies,3,Wickets,NA,2016
+66,Kolkata,Eden Gardens,New Zealand,Bangladesh,New Zealand,New Zealand,75,Runs,NA,2016
+67,Delhi,Arun Jaitley Stadium,England ,Sri Lanka,Sri Lanka,England,10,Runs,NA,2016
+68,Nagpur,Vidarbha Cricket Association,West Indies,Afghanistan,West Indies,Afghanistan,6,Runs,NA,2016
+69,Mohali,IS Bindra Stadium,India ,Australia,Australia,India ,6,Wickets,NA,2016
+70,Delhi,Arun Jaitley Stadium,South Africa,Sri Lanka,South Africa,South Africa,8,Wickets,NA,2016
+71,Delhi,Arun Jaitley Stadium,England ,New Zealand,England,England,7,Wickets,NA,2016
+72,Mumbai,Wankhede Stadium,West Indies,India,West Indies,West Indies,7,Wickets,NA,2016
+73,Kolkata,Eden Gardens,England ,West Indies,West Indies,West Indies,4,Wickets,NA,2016
